@@ -14,5 +14,10 @@ export default {
   components: {
     HelloWorld,
   },
+  data () {
+    return {
+      a: 1
+    }
+  }
 };
 </script>
